@@ -34,4 +34,4 @@ echo "Immersed starting"
 echo "Immersed stopped"
 
 # After exiting Immersed revert monitor layout
-xrandr --output $PHYSICAL_DISPLAY --mode 1920x1080 --pos 0x0 --output $EVDI0 --off -output $EVDI1 --off --output $EVDI2 --off --output $EVDI3 --off
+xrandr --output $PHYSICAL_DISPLAY --mode 1920x1080 --pos 0x0 --output $EVDI0 --off --output $EVDI1 --off --output $EVDI2 --off --output $EVDI3 --off
